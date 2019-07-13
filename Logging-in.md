@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-12
+date: 2019-07-14
 title: Logging-in
 ---
 1. Type Kmit.in/emagazine/login into the search box on Google
